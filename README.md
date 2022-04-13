@@ -1,5 +1,7 @@
 # Movies and Cocktails
 
+As a person who likes movies, I would like to find an appropriate cocktail to have while watching a movie.
+
 This application allows users to search movies for a synopsis including a description, genre, and runtime. Based on the movie genre recommended cocktails are presented in a carousel. Clicking a drink from the carousel will take the user to ingredients and instructions on how to mix the chosen cocktail.
 
 This application leverages Materialize CSS, SCSS, jQuery, jQueryUI
